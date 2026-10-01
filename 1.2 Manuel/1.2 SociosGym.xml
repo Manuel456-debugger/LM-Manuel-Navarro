@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<sociosgym>
+  <socio>
+    <nombre>Miquel</nombre>
+    <apellido>Pons</apellido>
+    <dni>45633875F</dni>
+    <correo>miquelpons@gmail.com</correo>
+  </socio>
+    <socio>
+    <nombre>Joan</nombre>
+    <apellido>Ribes</apellido>
+    <dni>97458352S</dni>
+    <correo>joanribes@gmail.com</correo>
+  </socio>
+    <socio>
+    <nombre>Maria</nombre>
+    <apellido>Puig</apellido>
+    <dni>68411452W</dni>
+    <correo>mariapuig@gmail.com</correo>
+  </socio>
+
+</sociosgym>

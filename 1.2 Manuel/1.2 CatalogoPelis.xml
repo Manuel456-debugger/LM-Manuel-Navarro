@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cataleg>
+  <peli id="P01">
+    <titol>El Laberint del faune</titol>
+    <any>2006</any>
+    <genere>Fantasia</genere>
+    <durada unidad="min">118</durada>
+      <ActorsPrincipals>I
+        <Actor>Ivana Baquero</Actor>
+        <Actor>Sergi Lopez</Actor>
+      </ActorsPrincipals>
+  </peli>
+  <peli id="P02">
+    <titol>Societat Morta</titol>
+    <any>1989</any>
+    <genere>Drama</genere>
+    <durada unidad="min">128</durada>
+      <ActorsPrincipals>I
+        <Actor>Robin Williams</Actor>
+        <Actor>Ethan Hawke</Actor>
+        <Actor>Robert Sean Leonard</Actor>
+      </ActorsPrincipals>
+  </peli>
+  <peli id="P03">
+    <titol>Interstellar</titol>
+    <any>2014</any>
+    <genere>Ciència-ficció</genere>
+    <durada unidad="min">169</durada>
+      <ActorsPrincipals>I
+        <Actor>Matthew McConaughey</Actor>
+        <Actor>Anne Hathaway</Actor>
+      </ActorsPrincipals>
+  </peli>
+
+
+
+</cataleg>
