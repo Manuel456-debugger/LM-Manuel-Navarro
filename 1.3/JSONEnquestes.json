@@ -1,0 +1,53 @@
+{
+  "enquestes": [
+    {
+      "id": 1,
+      "titol": "Enquesta de Satisfacció del Client",
+      "activa": true,
+      "preguntes": [
+        {
+          "ordre": 1,
+          "text": "Com qualificaries el nostre servei?",
+          "tipus": "opcio_multiple",
+          "opcions": [
+            "Meravellosa",
+            "Aceptable",
+            "Horrible"
+          ]
+        },
+        {
+          "ordre": 2,
+          "text": "Què podríem millorar?:",
+          "tipus": "text_lliure"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "titol": "Ahora Caigo",
+      "activa": false,
+      "preguntes": [
+        {
+          "ordre": 1,
+          "text": "Qui va descobrir Amèrica?",
+          "tipus": "opcio_multiple",
+          "opcions": [
+            "Cristòfol Colom",
+            "Isabel la Católica",
+            "Simón Bolívar"
+          ]
+        },
+        {
+          "ordre": 2,
+          "text": "D'on era Cristòfol Colom",
+          "tipus": "opcio_multiple",
+          "opcions": [
+            "Gènova, Itàlia",
+            "Marratxí, Espanya",
+            "Toledo, Espanya"
+          ]
+        }
+      ]
+    }
+  ]
+}
