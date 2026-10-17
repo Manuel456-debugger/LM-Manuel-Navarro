@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<correo>
+    <cabecera>
+        <asunto>Notes de la presentació d’ahir</asunto>
+        <remitente nombre="Carles Canals">cgo@paucasesnovescifp.cat</remitente>
+        <destinatario>para mí</destinatario>
+        <copia>alumnat@paucasesnovescifp.cat</copia>
+    </cabecera>
+    <cuerpo>
+        <saludo>Bon día</saludo>
+        <cuerpocorreo>Gràcies per la vostra assitència d’ahir sobre els continguts de l’assignatura. Esper haver resolt els vostres dubtes. Adjuntes están les meves notes sobre la presentació, per si desitjau compartir-les amb els alumnes que no hi van poder assistir</cuerpocorreo>
+    </cuerpo>
+    <cierre>
+        <despedida>Gràcies a tots i totes!</despedida>
+        <atentamente>Carles Canals</atentamente>
+        <firma>
+            <nombre>Carles Canals</nombre>
+            <cargo>Professor del Departament d’Informàtica del CIFP Pau Casesnoves</cargo>
+        </firma>
+    </cierre>

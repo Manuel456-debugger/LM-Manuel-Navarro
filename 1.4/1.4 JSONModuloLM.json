@@ -1,0 +1,33 @@
+{
+  "asir": {
+    "modulo": {
+      "nombre": "Lenguaje de Marcas y Sistemas de gestión de Información",
+      "horasSemanales": 4,
+      "asistencia": "Obligatoria",
+      "inicio": "25 de Septiembre de 2023",
+      "final": "30 de Junio de 2024",
+      "alumnos": [
+        {
+          "nombre": "Carles Canals Gozálvez",
+          "NIF": "12345678A",
+          "telefono": 971000000,
+          "email": "cgc@paucasesnovescifp.cat",
+          "direccion": "C/Sense Nom, 1 d’Inca",
+          "codigoPostal": "07300",
+          "faltasAsistencia": 10,
+          "calificacion": "No Apto"
+        },
+        {
+          "nombre": "Joana Quetglas Caimari",
+          "NIF": "87654321Z",
+          "telefono": 971123456,
+          "email": "qcj@paucasesnovescifp.cat",
+          "direccion": "C/ Sense sortida, 3 de Sóller",
+          "codigoPostal": "07100",
+          "faltasAsistencia": 0,
+          "calificacion": "Apto"
+        }
+      ]
+    }
+  }
+}
